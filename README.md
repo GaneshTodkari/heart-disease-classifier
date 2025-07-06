@@ -71,21 +71,6 @@ Interpretable Baseline: ℹ️ Logistic Regression
 
 Fast Lightweight Model: ⚡ Naive Bayes
 
-📦 Project Structure
-
-heart-disease-classification/
-├── data/
-│   └── heart.csv
-├── models/
-│   └── best_model.pkl (optional)
-├── notebooks/
-│   └── heart_analysis.ipynb
-├── images/
-│   └── roc_curve.png (optional)
-├── README.md
-└── requirements.txt
-
-
 🧠 Future Work
 
 Add SHAP/LIME explainability
